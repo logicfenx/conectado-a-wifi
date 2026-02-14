@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/conectado-a-wifi",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a conectado-a-wifi",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/conectado-a-wifi.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://bitcu.co/conectado-a-wifi-sin-internet/"
+    },
+    "homepage": "https://bitcu.co/conectado-a-wifi-sin-internet/"
+}
